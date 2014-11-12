@@ -1,6 +1,10 @@
 lasegunda
 =========
 
-* (https://github.com/jazzido/boscrap)
+## Inspiración y recursos:
 
-* (https://github.com/olea/lemarios)
+* https://github.com/jazzido/boscrap
+
+* https://github.com/machinalis/iepy
+
+* https://github.com/olea/lemarios
